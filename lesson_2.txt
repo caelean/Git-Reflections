@@ -19,3 +19,8 @@ If you want to add a feature that may not make it into the final version of your
 that you continue to update, want to host a public bug free version, or anything else, you can make a branch that 
 holds the changes you make.
 
+How do the diagrams help you visualize the branch structure?
+
+They show how edits on a commit previously made are not actually accessible unless the edits are committed to the 
+current branch or a new branch is started. It also shows where merge will come into play.
+
