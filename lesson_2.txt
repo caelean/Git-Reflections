@@ -6,4 +6,9 @@ It does not create any commits.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area acts as a place for files to stay that designates them as part of the next commit. This allows you to commit individual files and individual changes without saving everything at once. 
+The staging area acts as a place for files to stay that designates them as part of the next commit. 
+This allows you to commit individual files and individual changes without saving everything at once. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add only the files you want to commit.

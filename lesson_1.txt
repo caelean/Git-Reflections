@@ -24,3 +24,4 @@ How can you use the commands git log and git diff to view the history of files?
 
 git log provides a history of commits, each with unique IDs. you can use git diff
 to compare two commits by their ids in the format git dif id1 id2.
+
