@@ -11,4 +11,11 @@ This allows you to commit individual files and individual changes without saving
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-You can add only the files you want to commit.
+You can add only the files you want to commit, and give that commit a unique name.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to add a feature that may not make it into the final version of your code, want to keep a legacy version
+that you continue to update, want to host a public bug free version, or anything else, you can make a branch that 
+holds the changes you make.
+
