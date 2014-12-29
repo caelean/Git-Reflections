@@ -1,1 +1,6 @@
 Lesson 3 Notes
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you are working on a project that requires other people to view or edit your work, if you are working
+on a group project, or if you simply want to have a back up of your work.
